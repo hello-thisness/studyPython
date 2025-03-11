@@ -5,4 +5,8 @@
 # study for python 
 # using data science handbook
 #
- 
+
+
+가나다라
+가나다라
+
